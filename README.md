@@ -7,8 +7,10 @@ Sasstart is the modern SaaS boilerplate with everything you need to build better
 - Turborepo for monorepo
 - Strapi for CMS
 - Remix.run for web app
+- Next.js for another web app
 - Gatsby.js for documentation or landing page
 - Stitches for styled component
+- Radix UI for unstyled/accessible component
 - Tailwindcss for utility css
 
 ### Apps and Packages
