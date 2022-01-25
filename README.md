@@ -1,6 +1,6 @@
 # Sasstart
 
-Sasstart is the modern SaaS boilerplate with everything you need to build better web app/site.
+Saastart is the modern SaaS boilerplate with everything you need to build better web app/site.
 
 ### Technologies
 
