@@ -1,4 +1,4 @@
-# Sasstart
+# Saastart
 
 Saastart is the modern SaaS boilerplate with everything you need to build better web app/site.
 
